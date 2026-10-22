@@ -1,0 +1,18 @@
+method,seed,mean_violation,mean_cost,fullstrict_met,fullstrict_valid,contracts_total
+H-sweep H=200,1234,1.5996,3.6271,0,0,4
+H-sweep H=200,2234,1.2748,3.5303,0,0,4
+H-sweep H=200,3234,1.1377,4.0888,0,0,4
+H-sweep H=400,1234,5.0586,4.8965,0,0,4
+H-sweep H=400,2234,1.6642,4.6214,0,0,4
+H-sweep H=400,3234,3.2149,4.8784,1,1,4
+H-sweep H=800,1234,0.5058,4.5263,3,3,4
+H-sweep H=800,2234,0.466,4.5486,3,3,4
+H-sweep H=800,3234,0.3377,4.2949,4,4,4
+PCGrad surgery,1234,2.5108,2.7131,0,0,4
+PCGrad surgery,2234,1.6983,3.9661,0,0,4
+PCGrad surgery,3234,2.487,2.6983,0,0,4
+PID-Lagrangian,1234,0.8029,4.188,0,0,4
+PID-Lagrangian,1234,1.4889,3.8704,0,0,4
+PID-Lagrangian,2234,1.472,3.9866,0,0,4
+PID-Lagrangian,3234,1.396,3.601,0,0,4
+PID alt-gain kp=8,ki=0.3,kd=1.5,1234,1.7281,3.5789,0,0,4

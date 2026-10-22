@@ -1,0 +1,134 @@
+[
+  {
+    "contract": "K0_base",
+    "lambda_f": 50.0,
+    "seed": 2234,
+    "violation": 1.1165241844985376,
+    "cost": 4.911883491629922,
+    "tier_completion": [
+      0.32254643366977825,
+      0.48955694335870265,
+      0.5425794183329351
+    ],
+    "tier_norm_delay": [
+      2.0505076663491355,
+      1.7093795791113047,
+      1.4890181476135615
+    ],
+    "physical_stationary": true,
+    "price_stationary": false,
+    "contract_stationary": false,
+    "completion_met": false,
+    "delay_met": false,
+    "full_contract_met": false,
+    "valid_full_contract_met": false,
+    "eta_margin": [
+      -0.05745356633022175,
+      -0.0604430566412974
+    ],
+    "delay_margin": [
+      -0.050507666349135505,
+      0.04062042088869533
+    ],
+    "stationarity_known": true
+  },
+  {
+    "contract": "K1_loose_eta",
+    "lambda_f": 50.0,
+    "seed": 2234,
+    "violation": 0.6626501936509841,
+    "cost": 4.697156173737714,
+    "tier_completion": [
+      0.33977400638878036,
+      0.5513714127170052,
+      0.649249046408648
+    ],
+    "tier_norm_delay": [
+      1.7803409113225521,
+      1.4321522618674138,
+      1.2262223311738973
+    ],
+    "physical_stationary": true,
+    "price_stationary": true,
+    "contract_stationary": true,
+    "completion_met": false,
+    "delay_met": true,
+    "full_contract_met": false,
+    "valid_full_contract_met": false,
+    "eta_margin": [
+      -0.01022599361121962,
+      0.031371412717005165
+    ],
+    "delay_margin": [
+      0.21965908867744788,
+      0.31784773813258616
+    ],
+    "stationarity_known": true
+  },
+  {
+    "contract": "K2_tight_eta",
+    "lambda_f": 50.0,
+    "seed": 2234,
+    "violation": 1.2084483960286077,
+    "cost": 4.913183117376006,
+    "tier_completion": [
+      0.324093710789978,
+      0.48076789624898675,
+      0.5361179649194906
+    ],
+    "tier_norm_delay": [
+      2.066359510605844,
+      1.7634892904630461,
+      1.510834368245688
+    ],
+    "physical_stationary": true,
+    "price_stationary": false,
+    "contract_stationary": false,
+    "completion_met": false,
+    "delay_met": false,
+    "full_contract_met": false,
+    "valid_full_contract_met": false,
+    "eta_margin": [
+      -0.08590628921002197,
+      -0.09923210375101321
+    ],
+    "delay_margin": [
+      -0.06635951060584411,
+      -0.013489290463046144
+    ],
+    "stationarity_known": true
+  },
+  {
+    "contract": "K3_tight_dly",
+    "lambda_f": 50.0,
+    "seed": 2234,
+    "violation": 0.9842711726008667,
+    "cost": 4.818887389759121,
+    "tier_completion": [
+      0.33540743398813755,
+      0.5303282068479167,
+      0.5999792165572341
+    ],
+    "tier_norm_delay": [
+      1.8927020808633153,
+      1.5572884253525272,
+      1.3395368610494633
+    ],
+    "physical_stationary": true,
+    "price_stationary": false,
+    "contract_stationary": false,
+    "completion_met": false,
+    "delay_met": false,
+    "full_contract_met": false,
+    "valid_full_contract_met": false,
+    "eta_margin": [
+      -0.044592566011862456,
+      -0.01967179315208334
+    ],
+    "delay_margin": [
+      -0.04270208086331517,
+      -0.007288425352527161
+    ],
+    "stationarity_known": true
+  }
+]
